@@ -1,0 +1,26 @@
+nav {
+    background-color: rgb(119, 119, 231);
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    text-align: center;
+    margin: 0;
+    padding: 10px;    
+}
+
+nav ul li  {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}

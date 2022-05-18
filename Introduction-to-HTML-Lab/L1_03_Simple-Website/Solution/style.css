@@ -1,0 +1,52 @@
+nav {
+    background-color: rgb(146, 146, 233);
+}
+
+nav ul {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ 
+section h1 {
+    text-align: center;
+    margin: 40px;
+}
+
+section {
+    width: 70%;
+    margin: 80px auto;
+
+}
+
+header p {
+    font-style: italic;
+}
+
+footer {
+    background-color: rgb(146, 146, 233);
+}
+
+footer p {
+    text-align: center;
+    padding: 20px;
+}
+
