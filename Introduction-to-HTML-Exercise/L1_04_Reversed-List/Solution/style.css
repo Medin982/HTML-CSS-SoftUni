@@ -1,0 +1,25 @@
+main {
+    background: #DDDCDC ;
+    margin: 166px auto;
+    padding: 32px 25px;
+    text-align: center;
+    width: 30%;
+}
+
+main h3 {
+    color: rgb(89, 14, 187);
+}
+
+main ol {
+    text-align: left;
+    font-style:normal;
+
+}
+
+main ol li {
+    padding: 5px;
+    text-decoration: underline;
+}
+
+
+
