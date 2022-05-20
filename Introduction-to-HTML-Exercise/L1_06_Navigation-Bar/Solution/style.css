@@ -1,0 +1,30 @@
+nav {
+    background-color: rgb(163, 158, 158);
+    margin: -10px;
+    padding: 2px;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    /* padding: 0px 14px; */
+}
+
+nav ul li button {
+    background-color:rgb(163, 158, 158);
+    border: none;
+}
+
+nav ul li button a:hover {
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+nav ul li button a {
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 14px;
+    border-radius: 7px;
+}
