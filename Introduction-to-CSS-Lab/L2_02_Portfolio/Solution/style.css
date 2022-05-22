@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    /* background-color: #F0F1F5; */
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: #F0F1F5;
+    display: block;
+}
+
+nav ul {
+    padding: 0rem 4rem;
+    display: inline-block;
+}
+
+nav ul li {
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    color: #00d3d4;
+    font-size: 30px;
+    padding: 12px 0px;
+}
+
+nav ul li a {
+    color: #00d3d4;
+    text-decoration: none;
+
+}
+
+nav ul li i {
+    text-decoration: none;
+}
